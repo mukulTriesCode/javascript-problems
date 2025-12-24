@@ -7,6 +7,7 @@ This folder contains a collection of small JavaScript coding exercises.
 ```bash
 ├── charFrequency/
 ├── countVowels/
+├── firstNonRepeatingChar/
 ├── isAnagram/
 ├── isPalindrome/
 ├── largetNumber/
