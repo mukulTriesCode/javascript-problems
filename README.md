@@ -11,6 +11,7 @@ This folder contains a collection of small JavaScript coding exercises.
 ├── isAnagram/
 ├── isPalindrome/
 ├── largetNumber/
+├── longestWord/
 ├── moveZerosToEnd/
 ├── sumArray/
 ├── removeElement/
